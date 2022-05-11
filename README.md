@@ -1,1 +1,1 @@
-# sql-based_database
+# creating a database using sql for a company
